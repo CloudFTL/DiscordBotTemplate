@@ -14,6 +14,7 @@ Deb based:
 
 
 Arch Based
+
 ```sudo pacmac -S python```
 ```sudo pacman -S pip3```
 
