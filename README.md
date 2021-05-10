@@ -5,6 +5,7 @@ A Free To Use Python Template For A Basic Discord Bot
 Python3.8.x
 Windows (Install From MS Store/Python Site)
 MacOS (Python Website)
+
 Linux 
 Deb based: 
 
