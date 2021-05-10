@@ -5,8 +5,13 @@ A Free To Use Python Template For A Basic Discord Bot
 Python3.8.x
 Windows (Install From MS Store/Python Site)
 MacOS (Python Website)
-Linux Deb based: ```sudo apt-get install python3```
+Linux 
+Deb based: 
+```sudo apt-get install python3```
 ```sudo apt-get install pip3``` 
+Arch Based
+```sudo pacmac -S python```
+```sudo pacman -S pip3```
 
 Text Editor Of Choice (I used vim)
 
