@@ -9,7 +9,11 @@ A Discord Bot Application (https://discord.com/developers/applications)
 # Install Guide
 Clone/Download The Repo
 cd Into The Folder And Run 
-"pip install requirements.txt"
+ 
+ 
+ "pip install requirements.txt"
+
+
 This will install the discord library for python
 Once the library is installed open the py file and edit everything you want :)
 
