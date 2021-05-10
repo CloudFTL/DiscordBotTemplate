@@ -1,9 +1,8 @@
-# DiscordBotTemplate
+# Discord Bot Template
 A Free To Use Python Template For A Basic Discord Bot
 
 # Requirements
 Python3.8.x
-
 
 Text Editor Of Choice (I used vim)
 
@@ -23,3 +22,6 @@ Once the library is installed open the py file and edit everything you want :)
 
 Enjoy :)
 
+
+# Great Documentation On The Discord Python Library
+(https://discordpy.readthedocs.io/en/stable/api.html)
